@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/frameLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/aback"
+    tools:context=".abtus">
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="0dp"
+        android:layout_height="414dp"
+        android:layout_marginBottom="56dp"
+        android:paddingLeft="20dp"
+        android:text="We are a group of engineering students from Vit who were interested in making something within our grasp to make college life bit more interesting and memorable so we came up with this idea of making an application which grants a person some blissful moments within their hectic schedule. Hope this app has made your day bit more joyful during Covid times, the names which put a gentle smile your face by using this app are: Kunal Chaudhari, Parth Kunte, Omkar Kurhade, Ayush Kurapati, Dhiraj Kurhade and Soham Kurkute. So that's all about us hope you have a nice day with a sip of tea and melodies of our app or if its night hope you have a calm and peaceful sleep. Feel free to contact us through our vit email ids if you can suggest some improvements any acknowledgments will be warmly welcomed."
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView10"
+        android:layout_width="0dp"
+        android:layout_height="188dp"
+        android:src="@drawable/aback1"
+        app:layout_constraintBottom_toTopOf="@+id/textView3"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.217" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

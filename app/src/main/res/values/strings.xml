@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Harmonic</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="Welcome">WELCOME TO TIC TAC TOE</string>
+    <string name="grid">Our main grid</string>
+    <string name="x_s_turn_tap_to_play">X\'s Turn Tap To Play</string>
+    <string name="home">Home</string>
+    <string name="ttt">Tic Tac Toe</string>
+    <string name="mpl">Music Player</string>
+    <string name="abt">About Us</string>
+    <string name="men">MELODIC PLAYGROUND</string>
+    <string name="home1">This app helps to provide leisure time to music enthusiasts who like to hear songs and play simple games like Tic Tac Toe with their friends to spend time, also will help relieve stress from constant workload and hectic schedule.</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+</resources>
